@@ -21,4 +21,4 @@
 
 Д2Б2 - LIFO: последняя пришедшая заявка обслуживается первой
 
-
+![Сиквенс-диаграмма](https://github.com/Luiza1-1/SMO_logistics_hub/blob/f8824f84ec1342bbd2730e2d7ba29c25e2ea0b6c/Sequence_diagram_.png)
