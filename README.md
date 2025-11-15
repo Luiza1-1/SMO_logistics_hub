@@ -29,4 +29,4 @@
 
 ### Flowchart
 
-![Flowchart's дорожки](https://github.com/Luiza1-1/SMO_logistics_hub/blob/a00daada4bce281a7a61ebd89afeea5342b58095/Sequence_diagram_.png)
+![Flowchart's дорожки](https://github.com/Luiza1-1/SMO_logistics_hub/blob/75526747d3392b0a37a6b79a8894c61bb4b630b8/Flowchart.png)
