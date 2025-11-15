@@ -26,3 +26,7 @@
 ### Class_diagram
 
 ![Диаграмма классов](https://github.com/Luiza1-1/SMO_logistics_hub/blob/b94b7a9eb6e3fef811ddf1a96bdfa736c5ece735/Class_diagram_.png)
+
+### Flowchart
+
+![Flowchart's дорожки](https://github.com/Luiza1-1/SMO_logistics_hub/blob/a00daada4bce281a7a61ebd89afeea5342b58095/Sequence_diagram_.png)
