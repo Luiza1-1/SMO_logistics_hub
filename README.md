@@ -39,6 +39,8 @@ o Д2Б2 - LIFO: последняя пришедшая заявка обслуж
 
 ### Class_diagram
 
+! Диаграмма старая, позже поправлю !
+
 ![Диаграмма классов](https://github.com/Luiza1-1/SMO_logistics_hub/blob/b94b7a9eb6e3fef811ddf1a96bdfa736c5ece735/Class_diagram_.png)
 
 ### Flowchart
